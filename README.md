@@ -8,7 +8,7 @@ The script will ingest formatted logs, that are exported from Zscaler Web Analyt
 ## Steps [logging information]
 1. 'Access Zscaler Internet Access Administrator' portal
 2. Browse to 'Analytics'
-3. Select 'Insights - Web Sights'
+3. Select 'Insights - Web Inights'
 4. Select 'Logs' [check you have the right permissions if you cannot see it]
 5. Filter for the logs you require and export as CSV [rinse and repeat if there is a specific filter applied that has more than one group]
 6. Open up the exported *.csv then remove the first four rows [Administrator, Report Created, Locations and Location]
