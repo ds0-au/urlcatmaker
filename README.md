@@ -19,6 +19,11 @@ The script will ingest formatted logs, that are exported from Zscaler Web Analyt
 11. Run the script, enter the location of the *.csv & GLHF
 
 
+## Steps [dedup.py]
+1. From the export above you can run this script to ingest all of those files, to identify the duplicates/commonalities across the files and export as 'duplicates.txt' and then re-creates the input files but missing the duplicate URLs/IPs found.
+2. Run the script
+3. Select the file path
+4. GLHF
 
 
 
