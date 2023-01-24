@@ -5,7 +5,7 @@
 This script was created to help apply organisation wide URL listing for specific location groups; for locations that cannot use Cloud App Control.
 The script will ingest formatted logs, that are exported from Zscaler Web Analytics Logging feature and produce *.txt files based off the location.
 
-## Steps [logging information]
+## Steps [urlcatmaker.py]
 1. 'Access Zscaler Internet Access Administrator' portal
 2. Browse to 'Analytics'
 3. Select 'Insights - Web Inights'
